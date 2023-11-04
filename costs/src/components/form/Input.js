@@ -14,5 +14,4 @@ function Input ({type, text, name, placeholder, handleOnChange, value}){
         </div>    
     )
 }
-
 export default Input
